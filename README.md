@@ -230,9 +230,9 @@ services:
 ![Пункт 3. Для проверки удаляем все образы custom-nginx и скачиваем из локального registry](img/014.png)
 
 
-![Пункт 4](https://github.com/SLOV1977/05-virt-03-docker-intro/tree/main/img/015.png)
+![Пункт 4 Здесь и далее использую порт 9443, так как последняя версия Portainer слушает его](https://github.com/SLOV1977/05-virt-03-docker-intro/tree/main/img/015.png)
 
-![Пункт 4](img/015.png)
+![Пункт 4 Здесь и далее использую порт 9443, так как последняя версия Portainer слушает его](img/015.png)
 
 
 ![Пункт 5 Выбор local окружения](https://github.com/SLOV1977/05-virt-03-docker-intro/tree/main/img/016.png)
